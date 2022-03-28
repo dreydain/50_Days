@@ -1,5 +1,5 @@
 # 50_Days
-50 Projects in 50 Days Udemy Course By Brad Traversy
+50 Projects in 50 Days Udemy Course by Brad Traversy.
 
 <h2>Motivation</h2>
 Utlizing this course to practice basic HTML, CSS, and JavaScript skills.
